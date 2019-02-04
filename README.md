@@ -15,6 +15,6 @@ TBA
 [Eclipse IDE](https://www.eclipse.org/eclipseide/)
 
 
-http://wikibook.co.kr/java-for-everyone/
-
-[점프 투 자바](https://wikidocs.net/book/31)
+## 교재 및 참고도서
+* 주교재: [생활코딩! 자바 프로그래밍 입문](http://wikibook.co.kr/java-for-everyone/)
+* 참고도서: [점프 투 자바](https://wikidocs.net/book/31)
