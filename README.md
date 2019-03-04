@@ -25,10 +25,10 @@ Object Oriented Programming course (2019 Spring @ce.hnu.kr)
   * [Anaconda](https://www.anaconda.com/)
   * [Docker](https://www.docker.com/)
 
-[IntelliJ IDEA](https://www.jetbrains.com/idea/)
+* [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 
-[Eclipse IDE](https://www.eclipse.org/eclipseide/)
+* [Eclipse IDE](https://www.eclipse.org/eclipseide/)
 
-[GitHub](https://github.com/)
+* [GitHub](https://github.com/)
 
-[Jandi](https://oop2019.jandi.com/)
+* [Jandi](https://oop2019.jandi.com/)
