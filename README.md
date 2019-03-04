@@ -32,3 +32,5 @@ Object Oriented Programming course (2019 Spring @ce.hnu.kr)
 * [GitHub](https://github.com/)
 
 * [Jandi](https://oop2019.jandi.com/)
+
+* [HiClass](https://hiclass.hannam.ac.kr/courses/4795)
