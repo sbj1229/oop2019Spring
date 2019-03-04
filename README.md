@@ -26,7 +26,7 @@ Object Oriented Programming course (2019 Spring @ce.hnu.kr)
   * [Docker](https://www.docker.com/)
 
 설치 유의사항:
-BeakerX 설치 전 `conda update` 를 실행하면 나오는 안내대로 명렁어 실행. 관리자 모드로 설치한 경우는 관리자 모드로 `conda update` 해주어야 함.
+BeakerX 설치 전 `conda update` 를 실행하면 나오는 안내대로 명렁어 실행. 관리자 모드로 설치한 경우는 아나콘다 프롬프트를 관리자 모드로 실행하여 `conda update` 하고 설치해 주어야 함.
 
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 
