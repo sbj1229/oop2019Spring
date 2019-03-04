@@ -25,7 +25,8 @@ Object Oriented Programming course (2019 Spring @ce.hnu.kr)
   * [Anaconda](https://www.anaconda.com/)
   * [Docker](https://www.docker.com/)
 
-BeakerX 설치 전 `conda update` 를 실행하면 나오는 안내대로 명렁어 실행
+설치 유의사항:
+BeakerX 설치 전 `conda update` 를 실행하면 나오는 안내대로 명렁어 실행. 관리자 모드로 설치한 경우는 관리자 모드로 `conda update` 해주어야 함.
 
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 
