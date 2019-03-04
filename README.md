@@ -21,16 +21,18 @@ Object Oriented Programming course (2019 Spring @ce.hnu.kr)
 ## 수업에 사용할 소프트웨어
 
 * [BeakerX](http://beakerx.com/)
-  * [Jupyter](http://jupyter.org)
-  * [Anaconda](https://www.anaconda.com/)
-  * [Docker](https://www.docker.com/)
+  관련 소프트웨어
+  [Jupyter](http://jupyter.org),
+  [Anaconda](https://www.anaconda.com/),
+  [Docker](https://www.docker.com/)
 
 아나콘다로 BeakerX 설치 및 실행 방법 유의사항
   1. '관리자 모드'로 아나콘다 프롬프트(Anaconda Prompt)를 실행
-  1. `conda update` 를 실행하면 나오는 안내대로 명렁어(`conda update --prefix `로 시작하는...) 그대로 복붙해서 실행.
-  1. BeakerX 홈페이지에 나오는 명령어대로 `conda install -c conda-forge ipywidgets beakerx` 실행
-  1. 위의 update와 install 명령어 둘 다 성공적이었으면 관리자 모드 아나콘다 프롬프트 닫기
-  1. 아나콘다 프롬프트 실행하여 `beackerx` 명령어 실행 (기본 브라우저 크롬으로 하는 것을 추천)
+     1. `conda update` 를 실행하면 안내 메시지로 나오는 명렁어(`conda update --prefix `로 시작하는...) 그대로 복붙해서 실행.
+     1. BeakerX 홈페이지에 나오는 명령어대로 `conda install -c conda-forge ipywidgets beakerx` 실행
+     1. 위의 update와 install 둘 다 성공적이었으면 관리자 모드 아나콘다 프롬프트 닫기
+  1. 아나콘다 프롬프트(Anaconda Prompt)를 실행
+     1. `beackerx` 명령어 실행 (기본 브라우저 크롬으로 하는 것을 추천)
 
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 
