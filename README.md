@@ -34,7 +34,7 @@ Object Oriented Programming course (2019 Spring @ce.hnu.kr)
   1. 아나콘다 프롬프트(Anaconda Prompt)를 실행
      1. `beackerx` 명령어 실행 (기본 브라우저 크롬으로 하는 것을 추천)
 
-관리자 모드가 아닌 유저 모드로 아나콘다를 설치한 경우에는 관리자 모드로 아나콘다 프롬프트를 따로 띄울 필요 없이 위 과정을 진행하면 된다.
+아나콘다를 설치할 때 관리자 모드 설치를 고르지 않고 그냥 유저 모드로 아나콘다를 설치한 경우에는 관리자 모드 아나콘다 프롬프트를 따로 띄울 필요 없이 위 과정을 진행하면 된다.
 
 
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/)
