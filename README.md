@@ -32,7 +32,7 @@ Object Oriented Programming course (2019 Spring @ce.hnu.kr)
      1. BeakerX 홈페이지에 나오는 명령어대로 `conda install -c conda-forge ipywidgets beakerx` 실행
      1. 위의 update와 install 둘 다 성공적이었으면 관리자 모드 아나콘다 프롬프트 닫기
   1. 아나콘다 프롬프트(Anaconda Prompt)를 실행
-     1. `beackerx` 명령어 실행 (기본 브라우저 크롬으로 하는 것을 추천)
+     1. `beakerx` 명령어 실행 (기본 브라우저 크롬으로 하는 것을 추천)
 
 아나콘다를 설치할 때 관리자 모드 설치를 고르지 않고 그냥 유저 모드로 아나콘다를 설치한 경우에는 관리자 모드 아나콘다 프롬프트를 따로 띄울 필요 없이 위 과정을 진행하면 된다. 그러니까 굳이 아나콘다를 모든 사용자를 (All users) 위한 관리자 모드로 설치 옵션을 설정할 필요 없이 그냥 혼자만 쓰는 사용자 설치를 하는 것이 낫다.
 
