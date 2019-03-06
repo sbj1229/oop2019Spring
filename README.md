@@ -16,7 +16,7 @@ Object Oriented Programming course (2019 Spring @ce.hnu.kr)
 
 ## 교재 및 참고도서
 * 주교재: [생활코딩! 자바 프로그래밍 입문](http://wikibook.co.kr/java-for-everyone/)
-    - [교재에서 잘못 설명/표현 되었다고 생각되는 부분](http://kyagrd.github.io/oop2019Spring/textbookerr)
+    - [교재에서 잘못 설명/표현 되었다고 생각되는 부분](http://kyagrd.github.io/oop2019Spring/textbookerr.html)
 * 참고도서: [점프 투 자바](https://wikidocs.net/book/31)
 
 ## 강의자료
