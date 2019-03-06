@@ -18,6 +18,11 @@ Object Oriented Programming course (2019 Spring @ce.hnu.kr)
 * 주교재: [생활코딩! 자바 프로그래밍 입문](http://wikibook.co.kr/java-for-everyone/)
 * 참고도서: [점프 투 자바](https://wikidocs.net/book/31)
 
+## 강의자료
+강의자료는 홈페이지 깃헙 저장소에 올려놓거나 잔디 메신저를 통해 공유하고 있습니다.
+홈페이지 깃헙 저장소 내용을 확인하려면 홈페이지 오른쪽 상단의 "View on Gihub"라고 된 파란색 버튼을 눌러서 저장소로 이동하면 됩니다.
+
+
 ## 수업에 사용할 소프트웨어
 
 * [BeakerX](http://beakerx.com/)
